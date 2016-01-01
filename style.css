@@ -29,12 +29,6 @@ a, a:visited {
       margin: 0.1em 0;
       padding: 0;
     }
-    #head h2 {
-      font-size: 1.0em;
-      /*font-weight: normal;*/
-      margin: 0.1em 0;
-      padding: 0;
-    }
 
   #primary {
     padding-top: 15px;
@@ -44,20 +38,4 @@ a, a:visited {
     #primary p {
       margin: 0 0 15px;
       line-height: 1.4em;
-    }
-
-  #secondary {
-    padding-top: 15px;
-    width: 500px;
-    border-top: 1px solid #ddd;
-    color: #111;
-  }
-    #secondary p {
-      margin: 0 0 15px;
-      line-height: 1.4em;
-    }
-    #secondary a,
-    #secondary a:visited,
-    #secondary a:hover {
-      color: #337;
     }
